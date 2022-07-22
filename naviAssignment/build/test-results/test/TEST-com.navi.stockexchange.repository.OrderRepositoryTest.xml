@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.navi.stockexchange.repository.OrderRepositoryTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-07-22T10:42:43" hostname="DESKTOP-OF1A89L" time="0.085">
+  <properties/>
+  <testcase name="process Multi Stock Orders" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.059"/>
+  <testcase name="add Invalid Orders" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.003"/>
+  <testcase name="process Trade Executed use case" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.001"/>
+  <testcase name="add Valid Orders" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.002"/>
+  <testcase name="process Trade If Time Are Same use case 2" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.001"/>
+  <testcase name="add Empty Order" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.001"/>
+  <testcase name="process Empty Orders" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.001"/>
+  <testcase name="trade Not Executed use case" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.002"/>
+  <testcase name="add Duplicate Orders" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.003"/>
+  <testcase name="test Reset Order Repository" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.001"/>
+  <testcase name="process Trade If Time Are Same use case 1" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.0"/>
+  <testcase name="process Trade If Price Are Same" classname="com.navi.stockexchange.repository.OrderRepositoryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
